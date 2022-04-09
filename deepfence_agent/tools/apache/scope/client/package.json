@@ -27,7 +27,7 @@
     "json-stable-stringify": "1.0.1",
     "lcp": "1.1.0",
     "lodash": "4.17.15",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "page": "1.11.4",
     "polished": "3.4.1",
     "prop-types": "15.7.2",
