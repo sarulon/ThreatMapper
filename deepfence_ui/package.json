@@ -20,7 +20,7 @@
     "immutable": "^3.8.2",
     "lodash": "^4.17.20",
     "lucene-queryparser": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "page": "^1.11.4",
     "prop-types": "^15.5.8",
     "react": "17.0.0",
