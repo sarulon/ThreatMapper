@@ -23,7 +23,7 @@ pypd==1.1.0
 hurry.filesize==0.9
 pycryptodome==3.10.4
 netaddr==0.8.0
-certifi==2021.5.30
+certifi==2022.12.7
 chardet==4.0.0
 cycler==0.10.0
 idna==3.2
